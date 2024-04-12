@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 # STREAM PANEL
 
 Powered By Easypanel
