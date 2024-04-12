@@ -1,0 +1,17 @@
+{
+  "index": "Features",
+  "start": "Getting Started",
+  "quickStart": "Quick Start",
+  "contribution": "Contribution",
+  "roadmap": "RoadMap",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/orgs/wish-oss/discussions",
+    "newWindow": true
+  }
+}
